@@ -1,6 +1,8 @@
 # Beginner Friendly Portfolio
 
-#### Sometimes, creating an attractive portfolio is essential. Here's an eye-catching coded Portfolio [example]( https://smilegupta.github.io/portfolio) to realize that the can be eye-catching, elegant and recognizable.
+#### Creating an attractive portfolio is often essential. Here's an example of a coded portfolio [example]( https://smilegupta.github.io/portfolio) that demonstrates how it can be eye-catching, elegant, and memorable.
+
+
 
 ## Usage
 
